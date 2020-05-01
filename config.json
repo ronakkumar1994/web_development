@@ -1,0 +1,11 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:root@localhost/test_web",
+    "prod_uri": "mysql://prod_user:prod_password@localhost/prod_schema",
+    "gmail-user":"ronaktesting2@gmail.com",
+    "gmail-user1":"12aei104giet@gmail.com",
+    "gmail-password":"RONak@1994"
+  }
+}
